@@ -1,19 +1,17 @@
-name: Invitation to the GitHub Organization
-description: I would like to be part of the awesome organization
-title: "Please invite me to the GitHub Organization"
-labels: [invite me to the organisation]
-body:
-  - type: input
-    id: name
-    attributes:
-      label: Name
-      placeholder: Insert your name here
-    validations:
-      required: true
-  - type: textarea
-    id: Additional
-    attributes:
-      label: Additional Context
-      description: Where did you come to know about PixelExtended? What do you like about this community/Why do you want to join?
-    validations:
-      required: true
+---
+name: Invitation to Your First Open Source Project Organization
+about: "I want be part of this awesome community \U0001F973\U0001F389\U0001F38A"
+title: Please invite me to the GitHub Community Organization
+labels: invite me to the organization
+assignees: ''
+
+---
+
+<h2>
+  I want to join this organization!
+</h2>
+<p>
+  Once you submitted this issue, the GitHub Actions bot will send you an email invitation.
+  
+  Please kindly accept to join our organization :smile:
+</p>
